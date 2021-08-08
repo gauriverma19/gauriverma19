@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Gauri Verma!
+#### A student on the journey to become a Data Scientist!
 
-<!--
-**gauriverma19/gauriverma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gauriverma19)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verma-gauri/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:verma.g@northeastern.edu)
 
-Here are some ideas to get you started:
+I am currently working as a Data Science co-op at Schneider Electric and will continue to complete my Master's in Information Systems from Northeastern University, Boston!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="img" src="https://github.com/gauriverma19/gauriverma19/blob/main/cover_image.jpeg" width="50%" height="auto" />
+
+#### FUN FACT: I won an oscar for a Data Science Project! 
+
+#### 🌱 Things I am currently working on: 
+- Finish my Master's Degree  
+- Strenthening my skills around Deep Neural Networks and Sequence Models 
+- Some amazing Data Science projects 🚀 *coming soon*
+
+#### :muscle: Things I am challenging myself with:
+- Implementing Data Science to solve real world problems, and NOT JUST projects!
+- Everyday practice
+- Improving my skill set implementation using the AWS environment
+
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gauriverma19&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg"></code>
+
+  
+  
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
