@@ -6,21 +6,21 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verma-gauri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:verma.g@northeastern.edu)
 
-I am currently working as a Data Science co-op at Schneider Electric and will continue to complete my Master's in Information Systems from Northeastern University, Boston!  
+I am currently working as a Machine Learning Engineer at Schneider Electric. I have completed my Master's in Information Systems from Northeastern University, Boston!  
 
 <img align="right" alt="img" src="https://github.com/gauriverma19/gauriverma19/blob/main/cover_image.jpeg" width="50%" height="auto" />
 
 #### FUN FACT: I won an oscar for a Data Science Project! 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Master's Degree  
-- Strenthening my skills around Deep Neural Networks and Sequence Models 
+- Enhancing my cloud architecture skills
+- Working on Neural Network Models
+- AWS Frameworks!!
 - Some amazing Data Science projects 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Implementing Data Science to solve real world problems, and NOT JUST projects!
 - Everyday practice
-- Improving my skill set implementation using the AWS environment
 
 #### :computer: Programming languages and tools: 
 <p>
