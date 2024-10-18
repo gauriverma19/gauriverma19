@@ -1,6 +1,6 @@
 ### Hi there 👋 
-### I'm Gauri Verma!
-#### A student on the journey to become a Data Scientist!
+### I'm Gauri Verma.
+#### A Machine Learning Engineer working towards greating well governed and sustainable data science solutions!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gauriverma19)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verma-gauri/)
@@ -13,10 +13,9 @@ I am currently working as a Machine Learning Engineer at Schneider Electric. I h
 #### FUN FACT: I won an oscar for a Data Science Project! 
 
 #### 🌱 Things I am currently working on: 
-- Enhancing my cloud architecture skills
-- Working on Neural Network Models
-- AWS Frameworks!!
-- Some amazing Data Science projects 🚀 *coming soon*
+- Getting my hands on latest Gen-AI trends
+- Traditional models for Anomaly Detection
+- Enhancing managerial skills
 
 #### :muscle: Things I am challenging myself with:
 - Implementing Data Science to solve real world problems, and NOT JUST projects!
