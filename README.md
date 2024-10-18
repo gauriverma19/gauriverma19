@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I'm Gauri Verma.
-#### A Machine Learning Engineer working towards greating well governed and sustainable data science solutions!
+#### A Machine Learning Engineer working towards creating well governed and sustainable data science solutions!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gauriverma19)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verma-gauri/)
